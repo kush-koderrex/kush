@@ -14,6 +14,8 @@
 
 [<img align="left" alt="kush | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+[<img align="left" alt="kush | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="kush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="kush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -45,3 +47,4 @@
 [twitter]: https://twitter.com/kush36408286
 [instagram]: https://www.instagram.com/dhalabya/
 [linkedin]: https://www.linkedin.com/in/kush-kumar-139084183/
+[youtube]: https://www.youtube.com/channel/UC6ATR2JWLfIlMMWD5rUQvEA?view_as=subscriber
