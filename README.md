@@ -1,6 +1,6 @@
 ### Hi there, I'm Kush!
 
-## I'm a Software Developer & Aspiring Data Scientist!
+## I'm a Software Developer | Robotics Engineer | Aspiring Data Scientist!
 
 - 🔭 I’m currently working on few NLP ML MODELS!
 - 🌱 I’m currently learning everything 🤣
@@ -44,6 +44,18 @@
 <img align="left" alt="kush's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kush-koderrex&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush-koderrex&langs_count=8)](https://github.com/kush-koderrex/github-readme-stats)
+---
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [ROBOT PROGRAMING IN PYTHON (HINDI)](https://youtu.be/i68vRDrCOTQ)
+- [Kivy Installation | Kivy Mobile Development Through Python (HINDI)2020](https://youtu.be/opQy3vF5pq8)
+- [Python for Bioinformatics students](https://youtu.be/2eZ5NIU2Mdg)
+- [Kivy | Mobile App Development using python)](https://youtu.be/oSQrXHKKvew)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC6ATR2JWLfIlMMWD5rUQvEA?view_as=subscriber)
+---
 
 [website]: https://www.tictechscripts.com/
 [twitter]: https://twitter.com/kush36408286
