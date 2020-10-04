@@ -1,4 +1,4 @@
-### Hi there, I'm Kush!
+### Hi there, I'm Kush! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm a Software Developer | Robotics Engineer | Aspiring Data Scientist!
 
