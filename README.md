@@ -1,5 +1,5 @@
 ### Hi there, I'm Kush! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-#### One of those men who give the emotion to the machine ⚡
+#### One of those person who give the emotion to the machine ⚡
 
 ## I'm a Software Developer | Robotics Engineer | Aspiring Data Scientist!
 
