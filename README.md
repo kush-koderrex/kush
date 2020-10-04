@@ -43,7 +43,7 @@
 
 <img align="left" alt="kush's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kush-koderrex&show_icons=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush-koderrex&layout=compact)](https://github.com/kush-koderrex/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush-koderrex&langs_count=8)](https://github.com/kush-koderrex/github-readme-stats)
 
 [website]: https://www.tictechscripts.com/
 [twitter]: https://twitter.com/kush36408286
