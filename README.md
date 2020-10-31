@@ -4,7 +4,7 @@
 ## I'm a Software Developer | Robotics Engineer | Aspiring Data Scientist!
 
 - 🔭 I’m currently working on few NLP ML MODELS!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Flutter Frame work
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Become a good Machine Learning Engineer.
 - ⚡ Fun fact: I love to play snooker & writing blogs.
