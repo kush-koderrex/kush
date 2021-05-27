@@ -48,7 +48,12 @@
 
 ---
 
-<img align="left" alt="kush's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kush-koderrex&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="kush's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kush-koderrex&show_icons=true&hide_border=true" /> -->
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/kush-koderrex/github-readme-stats) -->
+
+![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush-koderrex&show_icons=true&theme=cobalt)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush-koderrex&langs_count=15)](https://github.com/kush-koderrex/github-readme-stats)
 ---
