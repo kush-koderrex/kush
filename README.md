@@ -53,10 +53,19 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/kush-koderrex/github-readme-stats) -->
 
 ![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kush-koderrex&show_icons=true&theme=cobalt)
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kush-koderrex&langs_count=15)](https://github.com/kush-koderrex/github-readme-stats)
+
 ---
+<!-- <a href="https://github.com/kush-koderrex/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-koderrex&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/kush-koderrex/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kush-koderrex&repo=convoychat" />
+</a>
+ -->
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
