@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on few NLP ML MODELS!
 - 🌱 I’m currently learning Flutter Frame work
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become a good Machine Learning Engineer.
+- 🥅 2022 Goals: Become a good Machine Learning Engineer.
 - ⚡ Fun fact: I love to play snooker & writing blogs.
 
 ### Connect with me:
